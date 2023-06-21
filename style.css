@@ -88,6 +88,8 @@ body {
     border: none;
     border-radius: 10px;
     background-color: #4CAF50;
+    font-weight: bold;
+    color: white;
 }
 
 .clear:hover{
@@ -100,7 +102,28 @@ body {
 h5{
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
 
 
+}
+
+.pag{
+    padding: 7px;
+    border: none;
+    border-radius: 10px;
+    background-color: #4CAF50;
+    font-weight: bold;
+    color: white;
+}
+
+.pag:hover{
+        background-color: #45a049;
+        
+
+
+}
+
+.adm{
+    float: right;
 
 }
