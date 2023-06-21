@@ -56,6 +56,7 @@ h1 {
 a{
     text-decoration: none;
 
+
 }
 .cart {
     border: none;
@@ -72,7 +73,7 @@ a{
 
 .button{
     border: none;
-    padding: 10px 20px;
+    padding: 10px 5px;
     background-color: #4CAF50;
     border-radius: 4px;
     color: white;
